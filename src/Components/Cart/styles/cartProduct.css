@@ -1,0 +1,6 @@
+.cart-p__icon{
+    font-size: 20px;
+    background-color: var(--bg-color-red);
+    color: white;
+    cursor: pointer;
+}

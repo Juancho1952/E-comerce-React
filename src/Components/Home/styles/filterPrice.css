@@ -1,0 +1,11 @@
+.filter-price-form{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+.filter-price-form__title{
+    text-align: center;
+}
+.filter-category__ul{
+    cursor: pointer;
+}
